@@ -1,6 +1,7 @@
 [package]
+authors = ["nokaa <nokaa@cock.li>"]
 name = "zeus"
 version = "0.1.0"
-authors = ["nokaa <nokaa@cock.li>"]
 
 [dependencies]
+error-chain = "0.7.2"
